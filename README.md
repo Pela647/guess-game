@@ -1,3 +1,3 @@
 # guess-game
 
-Demo site: [ ]
+Demo site: [https://pela647.github.io/guess-game/]
